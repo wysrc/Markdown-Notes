@@ -1,12 +1,12 @@
 # Quick Start
 ------------------------------------
-* [Headers](#Headers)
-* [Emphasis](#Emphasis)
-* [Lists](#Lists)
-* [Images](#Images)
-* [Links](#Links)
-* [Blockquotes](#Blockquotes)
-* [Inline code](#Inlinecode)
+* [Headers](#headers)
+* [Emphasis](#emphasis)
+* [Lists](#lists)
+* [Images](#images)
+* [Links](#links)
+* [Blockquotes](#blockquotes)
+* [Inline code](#inlinecode)
 ## Headers
 ------------------------------------
     # This is Heading level 1
