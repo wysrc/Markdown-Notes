@@ -1,5 +1,4 @@
 # Quick Start
-------------------------------------
 * [Headers](#headers)
 * [Emphasis](#emphasis)
 * [Lists](#lists)
@@ -7,8 +6,8 @@
 * [Links](#links)
 * [Blockquotes](#blockquotes)
 * [Inline code](#inlinecode)
+
 ## Headers
-------------------------------------
     # This is Heading level 1
     ## This is Heading level 2
     ### This is Heading level 3
@@ -22,8 +21,8 @@
 #### This is Heading level 4
 ##### This is Heading level 5
 ###### This is Heading level 6
+
 ## Emphasis
-------------------------------------
     *This text will be italic*
     _This will also be italic_
 
@@ -39,8 +38,8 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
 ## Lists
-------------------------------------
 ### Unordered
     * Item 1
     * Item 2
@@ -63,21 +62,21 @@ _You **can** combine them_
 3. Item 3
    1. Item 3a
    2. Item 3b
+
 ## Images
-------------------------------------
     ![GitHub Logo](/img/logo.png)
     Format: ![Alt Text](url)
 
 ![GitHub Logo](/images/logo.png)
+
 ## Links
-------------------------------------
     http://github.com - automatic!
     [GitHub](http://github.com)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
+
 ## Blockquotes
-------------------------------------
     As Kanye West said:
 
     > We're living the future so
@@ -87,8 +86,8 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+
 ## Inlinecode
-------------------------------------
     I think you should use an
     `<addr>` element here instead.
 
