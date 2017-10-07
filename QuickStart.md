@@ -75,7 +75,7 @@ _You **can** combine them_
     http://github.com - automatic!
     [GitHub](http://github.com)
 
-http://github.com - automatic!
+http://github.com - automatic!  
 [GitHub](http://github.com)
 
 ## Blockquotes
@@ -86,7 +86,7 @@ http://github.com - automatic!
 
 As Kanye West said:
 
-> We're living the future so
+> We're living the future so  
 > the present is our past.
 
 ## Inlinecode
