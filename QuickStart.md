@@ -68,7 +68,7 @@ _You **can** combine them_
     Format: ![Alt Text](url)
     Resize: <img src="/img/logo.png" width="128">
 
-![Markdown Logo](/img/logo.png)
+![Markdown Logo](/img/logo.png)  
 <img src="/img/logo.png" width="128">
 
 ## Links
