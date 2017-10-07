@@ -67,7 +67,7 @@ _You **can** combine them_
     ![GitHub Logo](/img/logo.png)
     Format: ![Alt Text](url)
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/img/logo.png)
 
 ## Links
     http://github.com - automatic!
