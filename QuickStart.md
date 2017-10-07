@@ -64,10 +64,12 @@ _You **can** combine them_
    2. Item 3b
 
 ## Images
-    ![GitHub Logo](/img/logo.png)
+    ![Markdown Logo](/img/logo.png)
     Format: ![Alt Text](url)
+    Resize: <img src="/img/logo.png" width="128">
 
-![GitHub Logo](/img/logo.png)
+![Markdown Logo](/img/logo.png)
+<img src="/img/logo.png" width="128">
 
 ## Links
     http://github.com - automatic!
