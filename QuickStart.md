@@ -64,16 +64,18 @@ _You **can** combine them_
    2. Item 3b
 
 ## Images
-    ![GitHub Logo](/img/logo.png)
+    ![Markdown Logo](/img/logo.png)
     Format: ![Alt Text](url)
+    Resize: <img src="/img/logo.png" width="128">
 
-![GitHub Logo](/images/logo.png)
+![Markdown Logo](/img/logo.png)  
+<img src="/img/logo.png" width="128">
 
 ## Links
     http://github.com - automatic!
     [GitHub](http://github.com)
 
-http://github.com - automatic!
+http://github.com - automatic!  
 [GitHub](http://github.com)
 
 ## Blockquotes
@@ -84,12 +86,12 @@ http://github.com - automatic!
 
 As Kanye West said:
 
-> We're living the future so
+> We're living the future so  
 > the present is our past.
 
 ## Inlinecode
     I think you should use an
     `<addr>` element here instead.
 
-I think you should use an
+I think you should use an  
 `<addr>` element here instead.
