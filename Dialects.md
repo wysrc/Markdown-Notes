@@ -1,2 +1,2 @@
 # Dialects
-GitHub Flavored Markdown (GFM)
+* GitHub Flavored Markdown (GFM)
