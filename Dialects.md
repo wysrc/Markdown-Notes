@@ -1,6 +1,6 @@
 # Dialects
-* [GitHub Flavored Markdown (GFM)](#gitHub flavored markdown (gfm))
-* [Markdown Extra](#markdown extra)
+* GitHub Flavored Markdown (GFM)
+* Markdown Extra
 
 
 ## GitHub Flavored Markdown (GFM)
