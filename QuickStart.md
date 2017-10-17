@@ -1,5 +1,5 @@
 # Quick Start
-* [Headers](#headers)
+* [Headings](#headings)
 * [Emphasis](#emphasis)
 * [Lists](#lists)
 * [Images](#images)
@@ -7,7 +7,7 @@
 * [Blockquotes](#blockquotes)
 * [Inline code](#inlinecode)
 
-## Headers
+## Headings
     # This is Heading level 1
     ## This is Heading level 2
     ### This is Heading level 3
