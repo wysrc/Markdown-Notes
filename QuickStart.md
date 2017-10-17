@@ -5,7 +5,7 @@
 * [Images](#images)
 * [Links](#links)
 * [Blockquotes](#blockquotes)
-* [Inline code](#inlinecode)
+* [Inline code](#inline-code)
 
 ## Headings
     # This is Heading level 1
@@ -89,7 +89,7 @@ As Kanye West said:
 > We're living the future so  
 > the present is our past.
 
-## Inlinecode
+## Inline code
     I think you should use an
     `<addr>` element here instead.
 
