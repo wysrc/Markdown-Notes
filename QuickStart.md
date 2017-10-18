@@ -1,13 +1,13 @@
 # Quick Start
-* [Headers](#headers)
+* [Headings](#headings)
 * [Emphasis](#emphasis)
 * [Lists](#lists)
 * [Images](#images)
 * [Links](#links)
 * [Blockquotes](#blockquotes)
-* [Inline code](#inlinecode)
+* [Inline code](#inline-code)
 
-## Headers
+## Headings
     # This is Heading level 1
     ## This is Heading level 2
     ### This is Heading level 3
@@ -89,7 +89,7 @@ As Kanye West said:
 > We're living the future so  
 > the present is our past.
 
-## Inlinecode
+## Inline code
     I think you should use an
     `<addr>` element here instead.
 
